@@ -1,3 +1,8 @@
 This is a test file
 This is a test v2.0
+<<<<<<< HEAD
 
+=======
+This is version 5.0
+>>>>>>> main
+This is version 5.0
