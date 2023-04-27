@@ -39,4 +39,4 @@ Function Set-ArchiveFilePath{
     $ZipFile
 }
 
-Set-ArchiveFilePath -ZipPath "C:\Archives\" -ZipPrefix "LogArchive-" -Date "2021-02-24" -Verbose
+Set-ArchiveFilePath -ZipPath "C:\Archives\" -ZipPrefix "LogArchive-" -Date "2022-02-24" -Verbose
